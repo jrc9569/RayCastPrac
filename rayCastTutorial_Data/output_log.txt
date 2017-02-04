@@ -1,0 +1,85 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: ATI Mobility Radeon HD 4200 Series (ID=0x9712)
+    Vendor:   ATI
+    VRAM:     899 MB
+    Driver:   8.970.100.9001
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\John Cole\Documents\RayCastPrac\rayCastTutorial_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\John Cole\Documents\RayCastPrac\rayCastTutorial_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\John Cole\Documents\RayCastPrac\rayCastTutorial_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\John Cole\Documents\RayCastPrac\rayCastTutorial_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\John Cole\Documents\RayCastPrac\rayCastTutorial_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\John Cole\Documents\RayCastPrac\rayCastTutorial_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\John Cole\Documents\RayCastPrac\rayCastTutorial_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\John Cole\Documents\RayCastPrac\rayCastTutorial_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\John Cole\Documents\RayCastPrac\rayCastTutorial_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\John Cole\Documents\RayCastPrac\rayCastTutorial_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\John Cole\Documents\RayCastPrac\rayCastTutorial_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\John Cole\Documents\RayCastPrac\rayCastTutorial_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\John Cole\Documents\RayCastPrac\rayCastTutorial_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\John Cole\Documents\RayCastPrac\rayCastTutorial_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.065 seconds
+Platform assembly: C:\Users\John Cole\Documents\RayCastPrac\rayCastTutorial_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\John Cole\Documents\RayCastPrac\rayCastTutorial_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 2646x1024 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 2646x1024 at 0,0
+<RI> Initialized touch support.
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+WARNING: Shader Unsupported: 'Hidden/DepthOfField/DepthOfField' - Pass '' has no vertex shader
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for geometry shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+WARNING: Shader Unsupported: 'Hidden/DepthOfField/BokehSplatting' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/DepthOfField/BokehSplatting' - Setting to default shader.
+UnloadTime: 2.716029 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2628 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at RayCastShoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at RayCastShoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at RayCastShoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at RayCastShoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
